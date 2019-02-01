@@ -1,0 +1,13 @@
+Style/GlobalVars:
+  AllowedVariables:
+    - $parameters
+    - $env
+
+Metrics/LineLength:
+  Max: 150
+
+Metrics/MethodLength:
+  Max: 25
+
+Metrics/AbcSize:
+  Max: 50

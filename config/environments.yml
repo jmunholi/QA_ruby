@@ -1,0 +1,4 @@
+dev: &defaults    
+    prod:
+      protocol: https
+      host: carrefour.com.br
